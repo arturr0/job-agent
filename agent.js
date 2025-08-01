@@ -30,8 +30,8 @@ app.use((req, res, next) => {
 // CV Templates
 const polishCV = `ARTUR BEDNARSKI
 Junior Web Developer
-Email: a.bednarski@onet.pl
-Tel.: 506 960 069
+Email:
+Tel.:
 ________________________________________
 O MNIE
 Mechatronik zmieniajacy branze na IT. 10-letnie doswiadczenie w samodzielnym programowaniu w JavaScript/HTML/CSS, Python i C++. Trainee Node.js Developer w firmie Innowise. Tutor programowania w Fundacji Aktywizacja. Od roku zajmuje sie automatyzacja procesow technologicznych i biznesowych oraz rozwiazaniami AI/ML. Szukam mozliwosci nauki nowoczesnych praktyk programistycznych pod okiem najlepszych fachowcow.
@@ -73,8 +73,8 @@ Wyrazam zgode na przetwarzanie moich danych osobowych przez firme Digispot - age
 
 const englishCV = `ARTUR BEDNARSKI
 Junior Web Developer
-Email: a.bednarski@onet.pl
-Phone: +48 506 960 069
+Email: 
+Phone:
 ________________________________________
 ABOUT ME
 Mechatronics specialist transitioning into IT. 10 years of self-taught experience in JavaScript/HTML/CSS, Python, and C++. Node.js Trainee Developer at Innowise. Programming tutor at the Activation Foundation. For the past year, I've focused on automating technological and business processes and building AI/ML solutions. I seek opportunities to learn modern programming practices under the mentorship of experts.
